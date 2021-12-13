@@ -1,9 +1,8 @@
 Hey 👋
 I'm Michael, and I like computers!
 
-Website: https://mcdim.xyz
-
-CV: https://mcdim.xyz/library/cv/cv.pdf
++ Website: https://mcdim.xyz
++ CV: https://mcdim.xyz/library/cv/cv.pdf
 
 *The pinned projects below are all mine, with (mostly) my code and coding style*. Feel free to contibute! ❤️
 
