@@ -1,5 +1,5 @@
 Hey 👋
-I'm Michael, and I like computers!
+I'm Michael, and I like computers! I'm an EE & CS student at IHU.
 
 + Website: https://mcdim.xyz
 + CV: https://mcdim.xyz/library/cv/cv.pdf
