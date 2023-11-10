@@ -11,5 +11,5 @@ My preferred languages are C, Go, Shell, Python but I can also use Java and othe
 🖥️ My system is UN*X, specifically Arch Linux 🐧💻
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDim02&theme=moltack)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelDim02&theme=moltack)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelDim02&theme=moltack) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelDim02&theme=moltack)
