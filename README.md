@@ -10,6 +10,6 @@ My preferred languages are C, Go, Shell/Bash, Python but I can also code in Java
 
 I like working in a Unix or GNU/Linux environment, and I'm passionate about free software.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDim02&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelDim02&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelDim02&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDim02&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelDim02&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelDim02&theme=gruvbox)
